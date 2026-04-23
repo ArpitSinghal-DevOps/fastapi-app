@@ -1,1 +1,7 @@
 minikube-linux-amd64
+minikube*
+*.iso
+*.bin
+*.tar.gz
+*.zip
+
